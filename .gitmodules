@@ -1,0 +1,6 @@
+[submodule "circular_buffer"]
+	path = circular_buffer
+	url = https://github.com/jeffersonwgoes/circular_buffer.git
+[submodule "tests/tinytest"]
+	path = tests/tinytest
+	url = https://github.com/joewalnes/tinytest.git
